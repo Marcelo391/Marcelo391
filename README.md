@@ -27,5 +27,5 @@ My name is Marcelo and ...:
 
  - 😄 I really like to learn
  - 📊 I'm working with Business Intelligence
- - 📚 Currently studying NodeJS and ReactJS
- - 🌍 And I also like to travel
+<!-- - 📚 Currently studying NodeJS and ReactJS 
+ - 🌍 And I also like to travel -->
